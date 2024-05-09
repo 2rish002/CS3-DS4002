@@ -1,14 +1,12 @@
 # CS3-DS4002
-Repository for CS3 Created by Rishi Raghavan, Spring 2024
+Repository for Licence Plate Recognition Case Study Created by Rishi Raghavan, Spring 2024
 
-
-# CS2-DS4002
-This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
 ## Important Information
-The two attached PDFs include both the Prompt and Deliverable for the case study as well as a Rubric to follow in order to meet all requirements successfully. 
+This repository contains the project memo and rubric, relevant articles found in the physical case study, as well as initial data to get started. 
 
 ## Data
-The necessary data is located in the "DATA" folder and includes both a cleaned dataset to be used for your model as well as the original and complete World Happiness Report data. 
+- The full data set of license plate images can be accessed at the following GitHub Repo: https://github.com/jonkeegan/us-license-plates
+- To get you started, the raw CSV and the images for Washington D.C have been uploaded to this folder. 
 
 ## Reference Materials
-The "Reference Materials" folder contains helpful resources related to the context of the social issue, tips for time-series regression analysis and developing a predictive model, as well as the complete World Happiness Report data to get a better idea of the data, contextually. 
+The "Reference Materials" folder contains helpful articles which contextualize the problem, provide tips for image-recognition analysis, and give an example of a real world application of this technology. 
